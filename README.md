@@ -6,7 +6,8 @@ Database used is Postgresql and default database name is hibernate_search_test
 
 1) edit persistence.xml for database parameters management<br />
 2) Run elasticsearch<br />
-3) Execute junit HibernateSearchTest<br />
+4) Run cmd : Gradle eclipse or gradle install for dependencies downloads<br />
+3) Execute Junit tests in HibernateSearchTest.class<br />
 4) Explore Elasticsearch index<br />
 
 Hibernate Search is great ;) 
